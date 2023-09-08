@@ -7,7 +7,7 @@ This is all language I have used in my code
 <a href="https://github.com/Lou-fr"><img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://github.com/Lou-fr"><img src ="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="https://github.com/Lou-fr"><img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="https://github.com/Lou-fr"><img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<a href="https://github.com/Lou-fr/cpp-test"><img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <hr>
 The database I have used in my code
 <br>
