@@ -23,7 +23,7 @@ The IDE I use
 <hr>
 <br>
 <br>
-<a href=><imf src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Lou-fr&theme=blue-green"></a>
+<imf src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Lou-fr&theme=blue-green">
 <!--
 **Lou-fr/Lou-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
