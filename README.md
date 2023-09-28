@@ -20,7 +20,10 @@ The IDE I use
 <br>
 <a href="https://github.com/Lou-fr"><img src ="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 <a href="https://github.com/Lou-fr"><img src ="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
-
+<hr>
+<br>
+<br>
+<a href=><imf src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Lou-fr&theme=blue-green"></a>
 <!--
 **Lou-fr/Lou-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
