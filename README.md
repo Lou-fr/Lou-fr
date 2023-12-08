@@ -8,6 +8,7 @@ This is all language I have used in my code
 <a href="https://github.com/Lou-fr"><img src ="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="https://github.com/Lou-fr"><img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://github.com/Lou-fr/cpp-test"><img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<a href=""><img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
 <hr>
 The database I have used in my code
 <br>
@@ -24,6 +25,13 @@ The IDE I use
 <br>
 <br>
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Lou-fr&theme=blue-green"/> 
+<hr>
+My spec
+<br>
+<br>
+<a href=""><img src ="https://img.shields.io/badge/AMD-Radeon_RX_7700XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
+<a href=""><img src ="https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
+
 <!--
 **Lou-fr/Lou-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
