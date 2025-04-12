@@ -21,6 +21,7 @@ The IDE I use
 <br>
 <a href="https://github.com/Lou-fr"><img src ="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 <a href="https://github.com/Lou-fr"><img src ="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
 <hr>
 <br>
 <br>
@@ -31,18 +32,3 @@ My spec
 <br>
 <a href=""><img src ="https://img.shields.io/badge/AMD-Radeon_RX_7700XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
 <a href=""><img src ="https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
-
-<!--
-**Lou-fr/Lou-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
