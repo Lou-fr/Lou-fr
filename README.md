@@ -1,35 +1,63 @@
-Hi i'm Lou !
--------------
-This is all language I have used in my code
+<body>
+  <center>
+<h1 align="center">~ 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓃𝓎𝒶𝒶𝒶 :𝟥 ~</h1>
+</div>
+    <div align="center">
+<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
+      </div>
+<div>
+<h2 align="center">  ~ 𝒜𝒷𝑜𝓊𝓉 𝓂𝑒 𝒪𝓋𝒪 ~  </h2>
+  <div align="center">
+<img src="https://c.tenor.com/0xCIMW8mnCMAAAAC/tenor.gif" align="right">
+    <br>
+  </div>
+<li>
+ <b>Name:</b> Lou</li>
+<li>
+<b>Loves:</b> anime, Hoyo game (except HI3), music
+</li>
+<li>
+<b>Gender:</b> she/her
+</li>
+<li>
+<b>Hobbys:</b> Code some backend, API or try to code Video game
+</li>
+<li>
+<b>Working @:</b> Nothing
+</li>
+<br><br><br>
+</div>
+<div>
+<h2 align="center">            ~ 📇 𝒦𝓃𝑜𝓌𝓁𝑒𝒹𝑔𝑒  📇 ~</h2>
+<p>
+  <div align="center">
+<img src="https://c.tenor.com/5LgU9FFvWREAAAAC/tenor.gif" align="right">
+  </div>
+</div>
+<div align="center">
+  <br>
+ <img src="https://skillicons.dev/icons?i=cpp,cs,java,dotnet,py,mongodb,mysql,unity&perline=4"/><br><br>
+</p>
 <br>
+<h2 align="center">           📝 ~ 𝒞𝑜𝓃𝓉𝒶𝒸𝓉 𝓂𝑒 ~ 📝</h2>
+  <div align="center">
+<img src="https://c.tenor.com/zVeklcxRPXUAAAAC/tenor.gif" align="right" width="167.5px" height="167.5x">
+  </div>
 <br>
-<a href="https://github.com/Lou-fr"><img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="https://github.com/Lou-fr"><img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="https://github.com/Lou-fr"><img src ="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
-<a href="https://github.com/Lou-fr"><img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="https://github.com/Lou-fr/cpp-test"><img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-<a href=""><img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"></a>
+<p align="center">If you want to contact me OvO >< here is my discord </p>
+<p align="center"> <a href="https://discord.com/app" target="_blank"><img src="https://img.shields.io/badge/seina_uwu%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+</div>
+<br>
+<div>
+<h2 align="center">💖 ~ 𝒯𝒽𝒶𝓃𝓀𝓈 𝒻𝑜𝓇 𝓇𝑒𝒶𝒹𝒾𝓃𝑔! ~ 💖</h2>
+<div align="center">
+<img src="https://c.tenor.com/kZl0wVnzoWkAAAAC/tenor.gif">
+</div>
 <hr>
-The database I have used in my code
-<br>
-<br>
-<a href="https://github.com/Lou-fr"><img src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a href="https://github.com/Lou-fr"><img src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<hr>
-The IDE I use
-<br>
-<br>
-<a href="https://github.com/Lou-fr"><img src ="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-<a href="https://github.com/Lou-fr"><img src ="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
-<hr>
-<br>
-<br>
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Lou-fr&theme=blue-green"/> 
-<hr>
-My spec
-<br>
-<br>
-<a href=""><img src ="https://img.shields.io/badge/AMD-Radeon_RX_7700XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
-<a href=""><img src ="https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
+</div>
+</div>
+<div>
+  <a href="https://github.com/HerXayah/HerXayah" target="_self"><h2 align="center">💖 ~ Original author of the readme HerXayah ~ 💖</h2></a>
+</div>
+    </center>
+</body>
