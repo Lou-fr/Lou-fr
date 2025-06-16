@@ -25,7 +25,7 @@
 <li>
 <b>Working @:</b> Nothing
 </li>
-<br><br><br>
+<br><br><br><br>
 </div>
 <div>
 <h2 align="center">            ~ 📇 𝒦𝓃𝑜𝓌𝓁𝑒𝒹𝑔𝑒  📇 ~</h2>
@@ -39,6 +39,8 @@
  <img src="https://skillicons.dev/icons?i=cpp,cs,java,dotnet,py,mongodb,mysql,unity&perline=4"/><br><br>
 </p>
 <br>
+<br>
+<br>
 <h2 align="center">           📝 ~ 𝒞𝑜𝓃𝓉𝒶𝒸𝓉 𝓂𝑒 ~ 📝</h2>
   <div align="center">
 <img src="https://c.tenor.com/zVeklcxRPXUAAAAC/tenor.gif" align="right" width="167.5px" height="167.5x">
@@ -47,6 +49,7 @@
 <p align="center">If you want to contact me OvO >< here is my discord </p>
 <p align="center"> <a href="https://discord.com/app" target="_blank"><img src="https://img.shields.io/badge/seina_uwu%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
+<br>
 <br>
 <div>
 <h2 align="center">💖 ~ 𝒯𝒽𝒶𝓃𝓀𝓈 𝒻𝑜𝓇 𝓇𝑒𝒶𝒹𝒾𝓃𝑔! ~ 💖</h2>
@@ -57,7 +60,7 @@
 </div>
 </div>
 <div>
-  <a href="https://github.com/HerXayah/HerXayah" target="_self"><h2 align="center">💖 ~ Original author of the readme HerXayah ~ 💖</h2></a>
+  <h2 align="center">💖 ~ Original author of the readme <a href="https://github.com/HerXayah/HerXayah" target="_self">HerXayah</a> ~ 💖</h2>
 </div>
     </center>
 </body>
