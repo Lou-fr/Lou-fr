@@ -52,7 +52,7 @@
 <br>
 <br>
 <div>
-<h2 align="center">💖 ~ 𝒯𝒽𝒶𝓃𝓀𝓈 𝒻𝑜𝓇 𝓇𝑒𝒶𝒹𝒾𝓃𝑔! ~ 💖</h2>
+<h2 align="center"> ~ 𝒯𝒽𝒶𝓃𝓀𝓈 𝒻𝑜𝓇 𝓇𝑒𝒶𝒹𝒾𝓃𝑔! ~ </h2>
 <div align="center">
 <img src="https://c.tenor.com/kZl0wVnzoWkAAAAC/tenor.gif">
 </div>
@@ -60,7 +60,7 @@
 </div>
 </div>
 <div>
-  <h2 align="center">💖 ~ Original author of the readme <a href="https://github.com/HerXayah/HerXayah" target="_self">HerXayah</a> ~ 💖</h2>
+  <h2 align="center"> ~ 𝒪𝓇𝒾𝑔𝒾𝓃𝒶𝓁 𝒶𝓊𝓉𝒽𝑜𝓇 𝑜𝒻 𝓉𝒽𝑒 𝓇𝑒𝒶𝒹𝓂𝑒 <a href="https://github.com/HerXayah/HerXayah" target="_self">HerXayah</a> ~ </h2>
 </div>
     </center>
 </body>
