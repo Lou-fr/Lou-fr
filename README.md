@@ -46,8 +46,8 @@
 <img src="https://c.tenor.com/zVeklcxRPXUAAAAC/tenor.gif" align="right" width="167.5px" height="167.5x">
   </div>
 <br>
-<p align="center">If you want to contact me OvO >< here is my discord seina_uwu </p>
-<p align="center"> <a href="https://discord.com/app" target="_blank"><img src="https://img.shields.io/badge/seina_uwu%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center">If you want to contact me OvO >< here is my discord hatsunemiku_uwu </p>
+<p align="center"> <a href="https://discord.com/app" target="_blank"><img src="https://img.shields.io/badge/hatsunemiku_uwu%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 <br>
 <br>
