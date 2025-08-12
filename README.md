@@ -23,7 +23,7 @@
 <b>Hobbys:</b> Code some backend, API or try to code Video game
 </li>
 <li>
-<b>Working @:</b> Nothing
+<b>Working <a href="https://github.com/PalaversDev" target="_blank">@Palavers</b></a>
 </li>
 <br><br><br><br>
 </div>
