@@ -25,6 +25,9 @@
 <li>
 <b>Working <a href="https://github.com/PalaversDev" target="_blank">@Palavers</b></a>
 </li>
+  <li>
+<b>Study <a href="https://github.com/Epitech" target="_blank">@Epitech</b></a>
+</li>
 <br><br><br><br>
 </div>
 <div>
@@ -36,7 +39,7 @@
 </div>
 <div align="center">
   <br>
- <img src="https://skillicons.dev/icons?i=cpp,cs,java,dotnet,py,mongodb,mysql,unity&perline=4"/><br><br>
+ <img src="https://skillicons.dev/icons?i=cpp,cs,java,dotnet,c,mongodb,mysql,unity&perline=4"/><br><br>
 </p>
 <br>
 <br>
