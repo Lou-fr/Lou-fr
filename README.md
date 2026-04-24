@@ -23,10 +23,7 @@
 <b>Hobbys:</b> Code some backend, API or try to code Video game
 </li>
 <li>
-<b>Working <a href="https://github.com/PalaversDev" target="_blank">@Palavers</b></a>
-</li>
-  <li>
-<b>Study <a href="https://github.com/Epitech" target="_blank">@Epitech</b></a>
+<b>Working <a href="https://github.com/PalaversDev" target="_blank">No project for now</b></a>
 </li>
 <br><br><br><br>
 </div>
